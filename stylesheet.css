@@ -1,0 +1,117 @@
+<style>
+.container12{
+
+        width: 50%;
+	    height: 50%;
+	    float: left;
+	   
+	   border: 1px solid;
+	
+        
+
+}
+
+.container1{
+        width: 50%;
+        height: 50%;
+        float: right;
+        margin: 0px 190px 0px 90px;
+	   padding: 50px 50px 50px 50px;
+       
+	   
+
+       
+}
+
+.header{
+
+	display: flex;
+	padding: 16px 16px;
+	margin: 0 16px 0 0;
+
+	text-align: center;
+}
+
+
+#search{
+
+  background: #fff;
+  width: 562;
+  height: 38;
+
+}
+
+#hambrgr{
+		font-size: 22px; 
+		color: #A9A9A9; 
+		padding-top: 10px;
+}
+
+#logo{
+		padding:10px 137px 0px 46px;
+		
+}
+
+#buton{
+
+	background: #f8f8f8; 
+	border: 1px solid; 
+	border-color: #ced4da;
+
+}
+
+#camera{
+
+	font-size: 22px;
+	 color: #A9A9A9;
+	 padding: 10px 20px 0px 70px;
+}
+
+#grid{
+
+	font-size: 22px;
+	 color: #A9A9A9;
+	  padding: 10px; 
+	}
+
+#backarrow{
+
+	font-size: 22px;
+	 color: #A9A9A9;
+	  padding: 10px;
+}	
+
+#bell{
+
+	font-size: 22px; 
+	color: #A9A9A9;
+	 padding: 10px 60px 0px 15px;
+}
+
+
+#signin{
+	background: #f8f8f8; 
+	border: 1px solid; 
+	border-color:
+}
+
+.osmicon{
+
+	
+	margin: 10px;
+	color: gray; @important
+}
+
+.osmicon1{
+
+	
+	margin: 10px;
+	color: gray; @important
+}
+
+a {
+	color: gray; @important
+}
+
+
+</style>
